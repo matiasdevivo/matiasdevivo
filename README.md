@@ -10,7 +10,7 @@ Develop RAG systems, vector databases, and LLM-powered applications (LangChain, 
 
 Automate real-world processes with n8n, Telegram bots, APIs, and custom integrations
 
-Work with relational databases (PostgreSQL, MySQL, SQL Server) and data modeling
+Work with relational databases (SQL) and data modeling
 
 Create analytics-ready datasets and data visualization prototypes (Power BI)
 
