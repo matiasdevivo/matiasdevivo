@@ -26,8 +26,6 @@ LLM engineering and RAG patterns
 
 Workflow automation and real-time event-driven systems
 
-Scalable data architectures (batch + streaming)
-
 Building useful tools that bridge data and automation
 
 📫 Reach out to me at: matiasdevivo@gmail.com
