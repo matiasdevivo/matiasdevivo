@@ -1,19 +1,22 @@
 <h1 align="center">Hola, soy Matías De Vivo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Soy estudiante de Ciencia de Datos e IA (IFTS N°24, Buenos Aires), enfocado en construir pipelines de datos escalables, sistemas inteligentes y soluciones orientadas a la automatización. Mi trabajo se inclina naturalmente hacia el lado de ingeniería — diseño de flujos, integración de LLMs y automatización de procesos reales de punta a punta.
+Soy estudiante de Ciencia de Datos e IA (IFTS N°24, Buenos Aires), enfocado en análisis exploratorio, modelado estadístico y sistemas inteligentes con LLMs. Trabajo con Python, R y SQL para extraer insights accionables, automatizar flujos con n8n y construir aplicaciones basadas en lenguaje con LangChain, ChromaDB y Ollama. He integrado APIs de modelos como Gemini, Claude y Codex en proyectos propios.
 
 ## Qué hago
-- Construyo flujos ETL/ELT con Python y SQL
-- Desarrollo sistemas RAG, bases de datos vectoriales y aplicaciones con LLMs (LangChain, ChromaDB, Streamlit)
-- Automatizo procesos reales con n8n, APIs e integraciones custom
-- Trabajo con bases de datos relacionales y modelado de datos
-- Creo dashboards y visualizaciones con Power BI y R (Tidyverse)
+- Análisis exploratorio y estadístico con Python (Pandas, NumPy) y R (Tidyverse)
+- Modelos predictivos y clasificación con Scikit-Learn y PyTorch
+- Sistemas RAG, bases de datos vectoriales y aplicaciones con LLMs (LangChain, ChromaDB, Streamlit, Ollama)
+- APIs y backends de datos con FastAPI
+- Dashboards y visualizaciones con Power BI (DAX, Power Query) y ggplot2
+- Automatizo flujos y procesos con n8n e integraciones via API
+- Consultas y transformaciones sobre bases de datos relacionales (MySQL, SQL Server)
 
 ## Intereses
-- Pipelines de Data Engineering (ingesta, orquestación, transformación)
+- Machine learning aplicado y modelado predictivo
 - LLM engineering y patrones RAG
+- Análisis de datos socioeconómicos y de negocio
+- Visualización orientada a la toma de decisiones
 - Automatización de flujos y sistemas orientados a eventos
-- Herramientas que conectan datos y automatización
 
 📫 matiasdevivo@gmail.com
 
@@ -26,12 +29,34 @@ Soy estudiante de Ciencia de Datos e IA (IFTS N°24, Buenos Aires), enfocado en 
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
 </span>
 
-<h4>Frameworks y herramientas de datos</h4>
+<h4>Machine Learning y estadística</h4>
+<span>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+</span>
+
+<h4>IA / LLMs y automatización</h4>
 <span>
   <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white">
   <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white">
   <img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white">
   <img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white">
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white">
+</span>
+
+<h4>APIs y backends</h4>
+<span>
+  <img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white">
+</span>
+
+<h4>Visualización</h4>
+<span>
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </span>
 
 <h4>Bases de datos</h4>
@@ -40,13 +65,9 @@ Soy estudiante de Ciencia de Datos e IA (IFTS N°24, Buenos Aires), enfocado en 
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </span>
 
-<h4>Análisis y visualización</h4>
+<h4>Cloud</h4>
 <span>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 </span>
 
 <h4>Herramientas</h4>
@@ -58,7 +79,6 @@ Soy estudiante de Ciencia de Datos e IA (IFTS N°24, Buenos Aires), enfocado en 
 </span>
 
 <hr>
-
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/matiasdevivo/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
