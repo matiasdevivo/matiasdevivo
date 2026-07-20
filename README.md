@@ -1,22 +1,23 @@
 <h1 align="center">Hola, soy Matías De Vivo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Soy estudiante de Ciencia de Datos e IA (IFTS N°24, Buenos Aires), enfocado en análisis exploratorio, modelado estadístico y sistemas inteligentes con LLMs. Trabajo con Python, R y SQL para extraer insights accionables, automatizar flujos con n8n y construir aplicaciones basadas en lenguaje con LangChain, ChromaDB y Ollama. He integrado APIs de modelos como Gemini, Claude y Codex en proyectos propios.
+Data Science & AI Technician, focused on exploratory analysis, statistical modeling, and intelligent systems with LLMs. I work with Python, R, and SQL to extract actionable insights, automate workflows with n8n, and build language-based applications with LangChain, ChromaDB, and Ollama. I've integrated model APIs like Gemini, Claude, and Codex into my own projects.
 
-## Qué hago
-- Análisis exploratorio y estadístico con Python (Pandas, NumPy) y R (Tidyverse)
-- Modelos predictivos y clasificación con Scikit-Learn y PyTorch
-- Sistemas RAG, bases de datos vectoriales y aplicaciones con LLMs (LangChain, ChromaDB, Streamlit, Ollama)
-- APIs y backends de datos con FastAPI
-- Dashboards y visualizaciones con Power BI (DAX, Power Query) y ggplot2
-- Automatizo flujos y procesos con n8n e integraciones via API
-- Consultas y transformaciones sobre bases de datos relacionales (MySQL, SQL Server)
+## What I do
+- Exploratory and statistical analysis with Python (Pandas, NumPy) and R (Tidyverse)
+- Predictive modeling and classification with Scikit-Learn
+- RAG systems, vector databases, and LLM-based applications (LangChain, ChromaDB, Streamlit, Ollama)
+- Data APIs and backends with FastAPI
+- Dashboards and visualizations with Power BI (DAX, Power Query) and ggplot2
+- Workflow automation with n8n and API integrations
+- Queries and transformations on relational databases (MySQL, SQL Server)
+- Predictive modeling and classification with Scikit-Learn and PyTorch
 
-## Intereses
-- Machine learning aplicado y modelado predictivo
-- LLM engineering y patrones RAG
-- Análisis de datos socioeconómicos y de negocio
-- Visualización orientada a la toma de decisiones
-- Automatización de flujos y sistemas orientados a eventos
+## Interests
+- Applied machine learning and predictive modeling
+- LLM engineering and RAG patterns
+- Socioeconomic and business data analysis
+- Decision-oriented data visualization
+- Workflow automation and event-driven systems
 
 📫 matiasdevivo@gmail.com
 
