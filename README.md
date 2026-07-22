@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Matías De Vivo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello, I am Matías De Vivo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Data Science & AI Technician, focused on exploratory analysis, statistical modeling, and intelligent systems with LLMs. I work with Python, R, and SQL to extract actionable insights, automate workflows with n8n, and build language-based applications with LangChain, ChromaDB, and Ollama. I've integrated model APIs like Gemini, Claude, and Codex into my own projects.
 
